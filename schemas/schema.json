@@ -1,0 +1,10 @@
+[
+  "repeat(2)",
+  {
+      "Id": "{{UUID()}}",
+      "Name": "A green door",
+      "Age": "{{Number(1,50)}}",
+      "Price": 12.50,
+      "tags": ["home", "green"]
+  }
+]
